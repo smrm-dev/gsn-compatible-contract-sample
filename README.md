@@ -1,0 +1,1 @@
+# gsn-compatible-contract-sample
